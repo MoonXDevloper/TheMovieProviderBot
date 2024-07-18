@@ -247,16 +247,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """ 📂 <i><a href="https://telegram.me/AwaraTeams">Hey {mention}👋
-
-{file_name}
-
-🔘 size - {file_size}
-
-╭─── • ❰ @AwaraTeams❱ • ────➤
-┣ ▫️ @AwaraTeamSupport 
-┣ ▫️ @Movies4UWorldOfficial
-╰─────── • ◆ • ───────➤</a></i>\n\n"""
+    CAPTION = """ 📂 <i><a href="https://telegram.me/AwaraTeams">{file_name}</a></i>\n\n"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
